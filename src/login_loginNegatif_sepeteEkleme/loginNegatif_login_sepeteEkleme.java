@@ -18,7 +18,7 @@ HESAP AÇMA (Negatif)
 2. Ana sayfada "Giriş" seçeneğine tıklar.
 3. "Üye ol" butonuna tıklar.
 4. e posta gönder, şifre (geçersiz) gönder, telefon no gönder, e-posta seçeneğini seç, gizlilik söz seç
-   üye ol butonuna tıklar
+   üye ol butonuna tıklar.
 5."Şifreniz 1 harf, 1 rakam ve en az 6 karakter içermelidir" mesajını görüntülenir.
 
  */
